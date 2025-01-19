@@ -1,4 +1,4 @@
-# 👋 Hey folks, I'm Mauricio!
+# 👋 Hey folks, it's me! Mauricio!
 
 I'm passionate about data and also travelling (can't deny it), with over 3 years of experience in building and maintaining data pipelines, developing dashboards, and delivering actionable insights to drive business decisions. 
 My expertise includes:
