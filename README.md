@@ -4,7 +4,7 @@ I'm passionate about data and also travelling (can't deny it), with over 3 years
 My expertise includes:
 
 - **Data Processing:** Proficient in SQL and Python, with hands-on experience in cloud platforms like Google Cloud Platform (GCP) and workflow tools like Apache Airflow.
-- **Business Intelligence:** Skilled in BI tools such as Power BI, Tableau, and Metabase.
+- **Business Intelligence:** Skilled in BI tools such as Power BI, Tableau, Metabase and Apache Superset.
 - **Data Engineering:** Experienced in ETL processes, data quality assurance, and big data technologies like Apache Spark.
 - **Data Transformation:** Proficient in using dbt (data build tool) for transforming data within data warehouses, enabling modular and version-controlled data modeling.
 - **Data Warehousing:** Experienced with Snowflake for scalable data storage and analytics, leveraging its capabilities for efficient data processing. 
